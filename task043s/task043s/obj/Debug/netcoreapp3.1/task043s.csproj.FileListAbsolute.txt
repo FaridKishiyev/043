@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\task043s\task043s\bin\Debug\netcoreapp3.1\task043s.exe
+C:\Users\acer\source\repos\task043s\task043s\bin\Debug\netcoreapp3.1\task043s.deps.json
+C:\Users\acer\source\repos\task043s\task043s\bin\Debug\netcoreapp3.1\task043s.runtimeconfig.json
+C:\Users\acer\source\repos\task043s\task043s\bin\Debug\netcoreapp3.1\task043s.runtimeconfig.dev.json
+C:\Users\acer\source\repos\task043s\task043s\bin\Debug\netcoreapp3.1\task043s.dll
+C:\Users\acer\source\repos\task043s\task043s\bin\Debug\netcoreapp3.1\task043s.pdb
+C:\Users\acer\source\repos\task043s\task043s\obj\Debug\netcoreapp3.1\task043s.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\task043s\task043s\obj\Debug\netcoreapp3.1\task043s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\task043s\task043s\obj\Debug\netcoreapp3.1\task043s.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\task043s\task043s\obj\Debug\netcoreapp3.1\task043s.AssemblyInfo.cs
+C:\Users\acer\source\repos\task043s\task043s\obj\Debug\netcoreapp3.1\task043s.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\task043s\task043s\obj\Debug\netcoreapp3.1\task043s.dll
+C:\Users\acer\source\repos\task043s\task043s\obj\Debug\netcoreapp3.1\task043s.pdb
+C:\Users\acer\source\repos\task043s\task043s\obj\Debug\netcoreapp3.1\task043s.genruntimeconfig.cache
