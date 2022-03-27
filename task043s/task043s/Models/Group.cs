@@ -33,11 +33,11 @@ namespace task043s.Models
                 for (int j = 0; j < stu.Length - i - 1; j++) 
                 {
 
-                    if (stu[j].Point > stu[j + 1].Point)
+                    if (stu[j] > stu[j + 1])
                     {
-                        double temp = stu[j].Point;
-                        stu[j].Point = stu[j + 1].Point;
-                        stu[j + 1].Point = temp;
+                        Student temp = stu[j];
+                        stu[j] = stu[j + 1];
+                        stu[j + 1] = temp;
                     }
 
                 }
